@@ -1,0 +1,19 @@
+Spectrm Giphy Task.
+Javascript Fullstack Framework : Meteor.js
+FrondEnd : React.js 
+
+
+Instruction for testing application on localhost. 
+
+Pre requisites :
+NPM
+NODE
+Meteor
+
+1)Extract Spectrm-Task.Zip
+2)npm install -g meteor (Long process)
+3)cd Spectrm-Task
+4)npm install 
+5)meteor npm install
+6)meteor --port 3000
+7)Open URL http://localhost:3000 Or http://'yourIp':3000

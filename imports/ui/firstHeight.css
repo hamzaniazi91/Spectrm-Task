@@ -1,0 +1,8 @@
+.slick-slide {
+   height:200px;
+}
+/*for adaptive height */
+/*Remove this for responsiveness*/
+.slick-slide img {
+   height:200px;
+}
